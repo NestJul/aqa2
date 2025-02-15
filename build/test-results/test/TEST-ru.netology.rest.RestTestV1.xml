@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.rest.RestTestV1" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-15T07:59:29" hostname="DESKTOP-FTQ54T2" time="4.933">
+  <properties/>
+  <testcase name="shouldReturnValue()" classname="ru.netology.rest.RestTestV1" time="4.933"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
